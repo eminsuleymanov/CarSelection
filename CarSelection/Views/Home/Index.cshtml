@@ -1,0 +1,16 @@
+﻿@using CarSelection.Models
+@model List<Brand>
+@{
+    ViewData["Title"] = "Index";
+}
+<ul>
+    @{
+        foreach (Brand brand in Model)
+        {
+            <li>
+                <a href="/model/index/@brand.Id">@brand.Name</a>
+            </li>
+            
+        }
+    }
+</ul>

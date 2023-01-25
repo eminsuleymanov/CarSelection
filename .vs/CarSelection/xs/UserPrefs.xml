@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{6FF9DA9C-730A-4A0A-917F-C13EF3A40B70}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarSelection PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarSelection/Controllers/ModelController.cs">
+    <Files>
+      <File FileName="CarSelection/Controllers/HomeController.cs" Line="10" Column="33" IsPinned="True" />
+      <File FileName="CarSelection/Views/Home/Index.cshtml" Line="11" Column="48" />
+      <File FileName="CarSelection/Models/Car.cs" Line="8" Column="41" />
+      <File FileName="CarSelection/Models/Brand.cs" Line="7" Column="36" />
+      <File FileName="CarSelection/Models/Model.cs" Line="7" Column="41" />
+      <File FileName="CarSelection/Controllers/BrandController.cs" Line="15" Column="40" />
+      <File FileName="CarSelection/Controllers/ModelController.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarSelection" expanded="True">
+            <Node name="CarSelection" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ModelController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
